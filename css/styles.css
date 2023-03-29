@@ -129,12 +129,7 @@ header .container .contact-menu li .link:hover .icon {
 }
 /* ----------- Hero section ----------- */
 .hero {
-  background: linear-gradient(
-      0deg,
-      rgba(47, 48, 58, 0.4),
-      rgba(47, 48, 58, 0.4)
-    ),
-    url(../images/Img_Hero.svg);
+  background-color: var(--background-black);
   padding: 200px var(--container-padding);
   background-repeat: no-repeat;
   background-size: cover;
